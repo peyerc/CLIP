@@ -1,5 +1,7 @@
 # CLIP - CubeSensors Logstash Input Plugin
 
+[![CLIP - Kibana](https://raw.githubusercontent.com/peyerc/CLIP/master/clip_kibana.png)](https://raw.githubusercontent.com/peyerc/CLIP/master/clip_kibana.png)
+
 CLIP is an input plugin for Logstash which collects cube data from your
 CubeSensors account.
 
