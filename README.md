@@ -1,6 +1,6 @@
 # CLIP - CubeSensors Logstash Input Plugin
 
-CLIP is a input plugin for Logstash which collects cube data from your
+CLIP is an input plugin for Logstash which collects cube data from your
 CubeSensors account.
 
 To configure CLIP you need first to get the OAuth credentials for your
