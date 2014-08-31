@@ -30,7 +30,7 @@ class LogStash::Inputs::Clip < LogStash::Inputs::Base
   # Interval to run the command. Value is in seconds.
   config :interval, :validate => :number, :required => true
 
-  CS_API = "http://api.cubesensors.com"
+  CS_API = "https://api.cubesensors.com"
 
   public
   def register
